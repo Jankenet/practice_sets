@@ -1,0 +1,111 @@
+Question 1
+
+Person Object
+(
+	[name] => Alica
+	[age] => 25
+
+)
+
+
+Question 2
+
+string(5) "hello"
+array(3) {
+
+	[0]=>
+	int(1)
+	[1]=>
+	int(2)
+	[2]=>
+	int(3)
+}
+
+
+Question 3
+
+float(10.5)
+
+
+Question 4
+
+The . (DOT) operator is used to concatenate the strings in PHP.
+
+
+Question 5
+
+localhost
+
+Question 6
+
+$Pl = 3.1416;
+
+Question 7
+
+Output: 9
+
+Question 8
+
+Output: Waening: Undefined array key 3
+
+Question 9
+
+Output: first_name, last_name, age
+
+Question 10
+
+Output:Array
+(
+    [1] => red
+    [2] => white
+    [3] => blue
+)
+
+Question 11
+
+Output: #f00
+
+Question 12
+
+Output: 6
+
+Question 13
+
+output: Maeve
+
+Question 14
+
+Output: jane@gmail.com
+
+Question 15
+
+Output:
+
+array(4) {
+  [0]=>
+  array(2) {
+    [0]=>
+    string(5) "apple"
+    [1]=>
+    string(6) "banana"
+  }
+  [1]=>
+  array(2) {
+    [0]=>
+    string(6) "orange"
+    [1]=>
+    string(5) "grape"
+  }
+  [2]=>
+  array(2) {
+    [0]=>
+    string(5) "mango"
+    [1]=>
+    string(9) "raspberry"
+  }
+  [3]=>
+  array(1) {
+    [0]=>
+    string(4) "kiwi"
+  }
+}
